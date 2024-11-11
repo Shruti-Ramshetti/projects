@@ -1,0 +1,25 @@
+.product-slider {
+    background-color: #111;
+    padding: 40px 20px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .product-slider h2 {
+    margin-bottom: 20px;
+  }
+  
+  .slick-slide {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .slick-center .product-card {
+    transform: scale(1.1);
+    opacity: 1;
+  }
+  
+  .slick-slide:not(.slick-center) .product-card {
+    transform: scale(0.9);
+    opacity: 0.6;
+  }
+  

@@ -1,0 +1,11 @@
+.homepage {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .homepage nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  

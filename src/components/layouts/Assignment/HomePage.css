@@ -1,0 +1,26 @@
+.box-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 110px;
+    
+}
+.box{
+   text-align: left;
+    background-color: white;
+    padding: 10px 0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    height: 200px;
+    width: 350px;
+    margin-right: 50px;
+    padding-left: 20px;
+}
+h1{
+    color:rgb(37, 37, 119);
+}
+h4{
+    color: #848181;
+}
+h3{
+    color:rgb(37, 37, 119); 
+}

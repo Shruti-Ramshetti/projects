@@ -1,0 +1,19 @@
+.Courselist{
+    display: grid;
+    grid-template-columns: 400px 400px  400px 400px;
+    text-align: left;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+h1{
+    margin-left: 50px;
+    color: brown;
+}
+.course-item{
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(237, 202, 191);
+}
+
+

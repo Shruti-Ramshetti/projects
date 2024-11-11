@@ -1,0 +1,36 @@
+.box-container6{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 150px;
+}
+.box-container6 img{
+    height: 350px;
+    width: 450px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+.box-container7{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+.box-container7 img{
+    height: 350px;
+    width: 450px;
+    margin-right: 50px;
+}
+.box-container8{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+.box-container8 img{
+    height: 350px;
+    width: 450px;
+    margin-right: 50px;
+}

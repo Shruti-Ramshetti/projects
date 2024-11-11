@@ -1,0 +1,43 @@
+.header{
+    background-color: rgb(46, 45, 45);
+    display: flex;
+    justify-content: space-between;
+}
+.header nav ul{
+    list-style: none;
+    display: flex;
+    margin-right: 90px;
+}
+.header nav ul li {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    transition: all 0.3s ease;
+    font-size: larger;
+    gap: 90px;
+}
+.header li:hover{
+    color: tomato;
+}
+.footer{
+    background-color: rgb(46, 45, 45);
+    color: white;
+    display: grid;
+    grid-template-columns: 500px 500px 400px 400px;
+}
+.footer div{
+    margin-left: 50px;
+}
+.footer p{
+    font-size: 20px;
+}
+.footer ul{
+    font-size: 30px;
+}
+.footer li{
+    list-style-type: circle;
+}
+.footer li:hover{
+    color: tomato;
+}
+    

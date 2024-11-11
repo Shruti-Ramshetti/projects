@@ -1,0 +1,31 @@
+.product-card {
+    background-color: #111;
+    padding: 15px;
+    border: 1px solid rgb(236, 236, 236);
+    border-radius: 5px;
+    color: rgb(251, 236, 236);
+    text-align: center;
+  
+}
+
+.product-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.original-price {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.add-to-cart {
+    padding: 8px 12px;
+    background-color: #e53935;
+    color: white;
+    font-size: 20px;
+    width: 400px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}

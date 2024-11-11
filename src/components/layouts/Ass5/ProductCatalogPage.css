@@ -1,0 +1,30 @@
+.catalog {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .product-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .product-item {
+    margin: 20px;
+    display: inline-block;
+    width: 200px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .details-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .details-button:hover {
+    background-color: #45a049;
+  }
+  

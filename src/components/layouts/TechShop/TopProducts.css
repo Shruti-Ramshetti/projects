@@ -1,0 +1,27 @@
+
+.product-page {
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .filter-buttons {
+    margin-bottom: 20px;
+  }
+  
+  .filter-buttons button {
+    margin: 0 5px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #111;
+    border: none;
+    cursor: pointer;
+    margin-left: 120px;
+    font-size: 20px;
+  }
+  
+  .filter-buttons button:hover{
+    background-color: #e53935;
+  }
+  

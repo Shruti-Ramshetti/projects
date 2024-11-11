@@ -1,0 +1,34 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #111;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+  
+  .logo {
+    font-size: 30px;
+    font-weight: bold;
+    color: #ddd;
+  }
+  
+  .header-icons {
+    display: flex;
+    gap: 60px;
+  }
+  
+  .icon {
+    color: #bbb;
+    font-size: 28px;
+    text-decoration: none;
+  }
+  
+  .icon:hover {
+    color: #fff;
+  }
+  

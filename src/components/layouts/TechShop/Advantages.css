@@ -1,0 +1,22 @@
+.advantages {
+    display: flex;
+    justify-content: space-around;
+    background-color: #111;
+    padding: 20px;
+    color: white;
+}
+
+.advantage{
+    width: 100%;
+    margin-right: 20px;
+}
+
+.advantage {
+    flex: 1;
+    text-align: center;
+}
+.advantage i{
+    color: orangered;
+    font-size: 40px;
+}
+

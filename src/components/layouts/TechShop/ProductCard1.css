@@ -1,0 +1,38 @@
+.product-card1 {
+    background-color: #111;
+    padding: 15px;
+    border-radius: 8px;
+    color: #fff;
+    text-align: center;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  .product-card1 h3 {
+    font-size: 1em;
+    margin: 10px 0 5px;
+    padding-bottom: 40px;
+  }
+  
+  .product-card1 .price {
+    color: #e53935;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .product-card1 .original-price {
+    text-decoration: line-through;
+    color: #999;
+   }
+  
+  .product-card1 img {
+    width: 200px;
+    height: 200px;
+    padding-left: 90px;
+    margin-bottom: 40px;
+    transition: transform 0.3s ease;
+  }
+  
+  .product-card1:hover img {
+    transform: scale(1.3);
+  }
+  
